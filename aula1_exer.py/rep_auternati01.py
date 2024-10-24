@@ -23,3 +23,4 @@ if __name__=='__main__':
 
     if escolha == '2':
         fahr_cel()
+        

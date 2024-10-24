@@ -23,3 +23,4 @@ print(f"total de desconto,  R${tolal_discont}")
 print(f"O salario liquido é.  R${total}")
 
 
+

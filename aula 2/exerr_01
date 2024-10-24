@@ -1,0 +1,5 @@
+
+
+for i in range(10):
+    valor_c = float(input("Digite o valor da compra: "))
+    
