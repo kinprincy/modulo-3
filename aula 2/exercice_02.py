@@ -7,11 +7,12 @@ def jaja(oras_tb):
     elif nivel_do_professor == 2:
         salbase = 66 * oras_tb
     else:
-        print("Nivel inezistente") 
+        print("Nivel inezistente")
+        return 0
 
     drs =  salbase * 0.15
-    
-    return  salbase + drs
+    salario = salbase + drs 
+    return  salario 
 
     
 print(f"O salario do professor e: R$ {jaja(oras_tb)}")
