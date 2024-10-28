@@ -15,4 +15,4 @@ pessoa2 = pessoa("Maria", "01/01/2001", "feminino")
 
 
 print("nome:",pessoa1.nome,"data de nascimento:",pessoa1.data_nascimento, "sexo:",pessoa1.sexo)
-print("nome:",pessoa2.nome,"data de nascimento:",pessoa2.data_nascimento, "sexo:",pessoa2.sexo)
+print("nome:",pessoa2.nome,"data de nascimento:",pessoa2.data_nascimento, "sexo:",pessoa2.data_nascimento)
