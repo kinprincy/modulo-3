@@ -12,7 +12,14 @@ produtos =[
 
 def imprimir(produtos):
     for produto in produtos:
-        print(f"Produto: {produto['produto']}, Marca: {produto['marca']}")
+        print(f"Produto: {produto['produto']}, Marca: {produto['marcas']}")
 
 imprimir(produtos)
+
+
+
+
+
+
+
 

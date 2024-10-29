@@ -48,7 +48,7 @@ for pessoa in pessoas:
 
 
 
-print("(outro exemplo )")
+print("(outro exemplos )")
 def caulcular_media_aluno(alunos):
     soma_notas = 0
     qtd_alunos = len(alunos)

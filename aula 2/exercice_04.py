@@ -16,7 +16,7 @@ valor_a_pagar = valor_compra -desconto
 
 print(f"\n--- Dados do cliente ---")
 print(f"Cliente: {nome}")
-print(f"Valor da compra: R$ {valor_compra:.2f}")
+print(f"Valor das compra: R$ {valor_compra:.2f}")
 print(f"Desconto: R$ {desconto:.2f}")
 print(f"Valor a pagar: R$ {valor_a_pagar:.2f}")
 print("-------------------")
