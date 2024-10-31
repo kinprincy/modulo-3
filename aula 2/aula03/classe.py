@@ -26,7 +26,6 @@ pessoa3.falar("Fala meu nobre")
 
 
 
-# A dicionado a herança na class 
 
 
 class Aluno(Pessoa):
